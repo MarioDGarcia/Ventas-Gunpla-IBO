@@ -1,0 +1,203 @@
+id_pais,nombrePais,continente
+AD,Andorra,Europa
+AE,United Arab Emirates,Asia
+AF,Afghanistan,Asia
+AG,Antigua and Barbuda,Caribe
+AI,Anguilla,Caribe
+AL,Albania,Europa
+AM,Armenia,Asia
+AO,Angola,África
+AQ,Antarctica,Antártida
+AR,Argentina,América
+AS,American Samoa,Oceanía
+AT,Austria,Europa
+AU,Australia,Oceanía
+AW,Aruba,Caribe
+AZ,Azerbaijan,Asia
+BA,Bosnia and Herzegovina,Europa
+BB,Barbados,Caribe
+BD,Bangladesh,Asia
+BE,Belgium,Europa
+BF,Burkina Faso,África
+BG,Bulgaria,Europa
+BH,Bahrain,Asia
+BI,Burundi,África
+BJ,Benin,África
+BM,Bermuda,Caribe
+BN,Brunei,Asia
+BO,Bolivia,América
+BR,Brazil,América
+BS,Bahamas,Caribe
+BT,Bhutan,Asia
+BW,Botswana,África
+BY,Belarus,Europa
+BZ,Belize,América
+CA,Canada,América
+CD,Democratic Republic of the Congo,África
+CF,Central African Republic,África
+CG,Republic of the Congo,África
+CH,Switzerland,Europa
+CI,Ivory Coast,África
+CL,Chile,América
+CM,Cameroon,África
+CN,China,Asia
+CO,Colombia,América
+CR,Costa Rica,América
+CU,Cuba,Caribe
+CV,Cape Verde,África
+CY,Cyprus,Asia
+CZ,Czech Republic,Europa
+DE,Germany,Europa
+DJ,Djibouti,África
+DK,Denmark,Europa
+DM,Dominica,Caribe
+DO,Dominican Republic,Caribe
+DZ,Algeria,África
+EC,Ecuador,América
+EE,Estonia,Europa
+EG,Egypt,África
+EH,Western Sahara,África
+ER,Eritrea,África
+ES,Spain,Europa
+ET,Ethiopia,África
+FI,Finland,Europa
+FJ,Fiji,Oceanía
+FM,Micronesia,Oceanía
+FR,France,Europa
+GA,Gabon,África
+GB,United Kingdom,Europa
+GD,Grenada,Caribe
+GE,Georgia,Asia
+GF,French Guiana,América
+GH,Ghana,África
+GI,Gibraltar,Europa
+GL,Greenland,América
+GM,Gambia,África
+GN,Guinea,África
+GQ,Equatorial Guinea,África
+GR,Greece,Europa
+GT,Guatemala,América
+GW,Guinea-Bissau,África
+GY,Guyana,América
+HN,Honduras,América
+HR,Croatia,Europa
+HT,Haiti,Caribe
+HU,Hungary,Europa
+ID,Indonesia,Asia
+IE,Ireland,Europa
+IL,Israel,Asia
+IN,India,Asia
+IQ,Iraq,Asia
+IR,Iran,Asia
+IS,Iceland,Europa
+IT,Italy,Europa
+JM,Jamaica,Caribe
+JO,Jordan,Asia
+JP,Japan,Asia
+KE,Kenya,África
+KG,Kyrgyzstan,Asia
+KH,Cambodia,Asia
+KI,Kiribati,Oceanía
+KM,Comoros,África
+KN,Saint Kitts and Nevis,Caribe
+KP,North Korea,Asia
+KR,South Korea,Asia
+KW,Kuwait,Asia
+KZ,Kazakhstan,Asia
+LA,Laos,Asia
+LB,Lebanon,Asia
+LC,Saint Lucia,Caribe
+LI,Liechtenstein,Europa
+LK,Sri Lanka,Asia
+LR,Liberia,África
+LS,Lesotho,África
+LT,Lithuania,Europa
+LU,Luxembourg,Europa
+LV,Latvia,Europa
+LY,Libya,África
+MA,Morocco,África
+MC,Monaco,Europa
+MD,Moldova,Europa
+ME,Montenegro,Europa
+MG,Madagascar,África
+MK,North Macedonia,Europa
+ML,Mali,África
+MM,Myanmar,Asia
+MN,Mongolia,Asia
+MR,Mauritania,África
+MT,Malta,Europa
+MU,Mauritius,África
+MV,Maldives,Asia
+MW,Malawi,África
+MX,Mexico,América
+MY,Malaysia,Asia
+MZ,Mozambique,África
+NA,Namibia,África
+NE,Niger,África
+NG,Nigeria,África
+NI,Nicaragua,América
+NL,Netherlands,Europa
+NO,Norway,Europa
+NP,Nepal,Asia
+NR,Nauru,Oceanía
+NZ,New Zealand,Oceanía
+OM,Oman,Asia
+PA,Panama,América
+PE,Peru,América
+PG,Papua New Guinea,Oceanía
+PH,Philippines,Asia
+PK,Pakistan,Asia
+PL,Poland,Europa
+PT,Portugal,Europa
+PW,Palau,Oceanía
+PY,Paraguay,América
+QA,Qatar,Asia
+RO,Romania,Europa
+RS,Serbia,Europa
+RU,Russia,Europa
+RW,Rwanda,África
+SA,Saudi Arabia,Asia
+SB,Solomon Islands,Oceanía
+SC,Seychelles,África
+SD,Sudan,África
+SE,Sweden,Europa
+SG,Singapore,Asia
+SI,Slovenia,Europa
+SK,Slovakia,Europa
+SL,Sierra Leone,África
+SM,San Marino,Europa
+SN,Senegal,África
+SO,Somalia,África
+SR,Suriname,América
+SS,South Sudan,África
+ST,Sao Tome and Principe,África
+SV,El Salvador,América
+SY,Syria,Asia
+SZ,Eswatini,África
+TD,Chad,África
+TG,Togo,África
+TH,Thailand,Asia
+TJ,Tajikistan,Asia
+TL,East Timor,Asia
+TM,Turkmenistan,Asia
+TN,Tunisia,África
+TO,Tonga,Oceanía
+TR,Turkey,Asia
+TT,Trinidad and Tobago,Caribe
+TV,Tuvalu,Oceanía
+TZ,Tanzania,África
+UA,Ukraine,Europa
+UG,Uganda,África
+US,United States,América
+UY,Uruguay,América
+UZ,Uzbekistan,Asia
+VA,Vatican City,Europa
+VC,Saint Vincent and the Grenadines,Caribe
+VE,Venezuela,América
+VN,Vietnam,Asia
+VU,Vanuatu,Oceanía
+WS,Samoa,Oceanía
+YE,Yemen,Asia
+ZA,South Africa,África
+ZM,Zambia,África
+ZW,Zimbabwe,África
